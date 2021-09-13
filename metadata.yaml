@@ -1,5 +1,8 @@
 _repo: Religio-Journalistici_66145
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66145-h/images/cover.jpg
 creator:
   author:
     agent_name: Morley, Christopher
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/109
     wikipedia: https://en.wikipedia.org/wiki/Christopher_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66145#Religio-Journalistici
 gutenberg_issued: '2021-08-25'
 identifiers:
   gutenberg: '66145'
